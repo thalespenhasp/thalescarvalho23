@@ -18,6 +18,7 @@
   <img align="center" alt="thales-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="thales-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="thales-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="right" height="100" width="100" alt="thales" src="https://i.picasion.com/pic91/77c061043b01cf6dc0ae7019040e72f6.gif">
 
 </div>
   
@@ -28,6 +29,6 @@
 <a href = "mailto:thalese23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thalescarvalho23/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/thalescarvalho23/thalescarvalho23/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation]("https://github.com/thalescarvalho23/thalescarvalho23/blob/output/github-contribution-grid-snake.svg")
   
 </div>
