@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente estágiario na Empresa Sticle(Oracle e infraestura).
+- 🔭 Atualmente estágiario na Empresa Sticle(Oracle e infraestrutura).
 - 🌱 Cursando Analisé e Desenvolvimento De Sistemas 📘
 - ⚡ estudando inglês e PHP.
  <div>
