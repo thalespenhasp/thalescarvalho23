@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Atualmente estágiario na Empresa Sticle(Oracle e infraestrutura).
+- 🔭 Atualmente Analista de Sistemas na Accenture
 - 🌱 Cursando Analisé e Desenvolvimento De Sistemas 📘
-- ⚡ estudando inglês e PHP.
+- ⚡ estudando inglês e Java.
  <div>
   <a href="https://lojathales.000webhostapp.com/">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=thalescarvalho23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
