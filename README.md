@@ -18,7 +18,7 @@
   <img align="center" alt="thales-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="thales-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="thales-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="right" height="100" width="100" alt="thales" src="https://i.picasion.com/pic91/77c061043b01cf6dc0ae7019040e72f6.gif">
+
 
 </div>
   
