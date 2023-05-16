@@ -28,7 +28,7 @@
  <a href= "https://api.whatsapp.com/send?phone=5511985933820&text=me%20chame%20para%20conversar"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 <a href = "mailto:thalese23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thalescarvalho23/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+ <img align="right" height="100" width="100" alt="thales" src="https://i.picasion.com/pic91/77c061043b01cf6dc0ae7019040e72f6.gif">
  ![Snake animation](https://github.com/thalescarvalho23/thalescarvalho23/blob/output/github-contribution-grid-snake.svg)
 </div>
   
