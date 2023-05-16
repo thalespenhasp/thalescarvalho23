@@ -19,8 +19,6 @@
   <img align="center" alt="thales-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="thales-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/Java-original.svg">
 
-
-
 </div>
   
   ##
