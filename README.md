@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente Analista de Sistemas na Accenture
-- 🌱 Cursando Analisé e Desenvolvimento De Sistemas 📘
+- 🌱 Concluido Analisé e Desenvolvimento De Sistemas 📘
 - ⚡ estudando inglês e Java.
  <div>
   <a href="https://lojathales.000webhostapp.com/">
