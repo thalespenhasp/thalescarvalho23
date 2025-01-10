@@ -2,11 +2,11 @@
 
 
 
-- 🔭 Atualmente Analista de Sistemas na Accenture
+- Em busca de novos Desafios🔭 
 - 🌱 Concluido Analisé e Desenvolvimento De Sistemas 📘
-- ⚡ estudando inglês e Java.
+- ⚡ estudando inglês.
  <div>
-  <a href="https://www.thalesti.tech/">
+ 
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=thalescarvalho23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalescarvalho23&layout=compact&langs_count=7&theme=dark"/>
 </div>
