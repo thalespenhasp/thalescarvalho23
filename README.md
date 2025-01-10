@@ -3,7 +3,7 @@
 
 
 - Em busca de novos Desafios🔭 
-- 🌱 Concluido Analisé e Desenvolvimento De Sistemas 📘
+- 🌱 Concluido Analise e Desenvolvimento De Sistemas 📘
 - ⚡ estudando inglês.
  <div>
  
