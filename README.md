@@ -3,7 +3,8 @@
 
 
 - Em busca de novos Desafios🔭 
-- 🌱 Concluido Analise e Desenvolvimento De Sistemas 📘
+- 🌱 Concluido Analise e Desenvolvimento De Sistemas
+-  📘 Cursando Engenharia da Computação
 - ⚡ estudando inglês.
  <div>
  
