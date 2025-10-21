@@ -20,7 +20,7 @@
   <img align="center" alt="thales-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="thales-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="thales-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="thales-reactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactNative/reactNative-original.svg">
+ 
 </div>
   
   ##
