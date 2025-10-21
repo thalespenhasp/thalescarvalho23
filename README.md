@@ -1,4 +1,4 @@
-<h2>Olá! eu sou Thales Carvalho 👋</h2> 
+<h2>Olá! eu sou Thales Penha 👋</h2> 
 
 
 
